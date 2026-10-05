@@ -1,0 +1,2 @@
+:HL["/xiaoman-bakery/_next/static/chunks/32k11ewoyob0o.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"admin","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"3f7Q131VCKen-Uxq0f6si"}
